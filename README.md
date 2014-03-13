@@ -1,5 +1,7 @@
 # tdd-boilerplate
 
+[![Build Status](https://travis-ci.org/jamonholmgren/tdd-boilerplate.png?branch=master)](https://travis-ci.org/jamonholmgren/tdd-boilerplate)
+
 Following @dfkaye's excellent tutorial.
 
 # rawgithub
